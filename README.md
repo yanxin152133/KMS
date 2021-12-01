@@ -73,3 +73,7 @@ CRC32: 42E1653D
 - rufus
     + 下载地址：[rufus](http://rufus.ie/)
     + 使用方法自行百度
+
+
+## 问题
+[安装出现的问题](https://github.com/yanxin152133/KMS/issues)

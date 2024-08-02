@@ -1,8 +1,12 @@
 @echo off
 setlocal EnableDelayedExpansion&color 3e
-echo æ­£åœ¨æ‰§è¡Œæ“ä½œã€‚ã€‚ã€‚
-title æ­£åœ¨æ¿€æ´»office 2013 é€šç”¨æ¿€æ´»ç‰ˆæœ¬ã€‚ã€‚ã€‚
+
+title ÕıÔÚ¼¤»îoffice 2013 Í¨ÓÃ¼¤»î°æ±¾
+
+echo ÕıÔÚÖ´ĞĞ²Ù×÷
+
 cd C:\Program Files\Microsoft Office\Office15
 cscript ospp.vbs /sethst:kms.03k.org
 cscript ospp.vbs /act
-echo æ“ä½œå®Œæˆ
+
+echo ²Ù×÷Íê³É

@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion&color 3e
 
-title 正在激活 Windows 通用激活版本
+title 正在激活 Windows
 
 echo 正在执行操作
 

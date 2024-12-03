@@ -1,7 +1,7 @@
 # 1. KMS
 office 2016 vol、Windows 10 business editions、Windows 10 Enterprise LTSC、Windows 11 business editions、Windows 11 Enterprise LTSC
 ## 1.1. KMS服务器
-[KMS服务器](https://03k.org/kms.html)
+[KMS服务器](https://blog.03k.org/post/kms.html)
 
 ## 1.2. Office激活
 ### 1.2.1. 注意事项
